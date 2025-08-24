@@ -1,0 +1,9 @@
+{
+  "trend": "add",
+  "seasonal": "mul",
+  "damped": false,
+  "init": "estimated",
+  "m": 12,
+  "bias_type": "add",
+  "bias_value": 50.696550918385235
+}
