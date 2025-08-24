@@ -12,32 +12,12 @@ A compact notebook focused on analysis/experiments. This README gives you the es
 - Notebook: `solution_Alper_Erdogan.ipynb`
 
 - Main sections:
-
-- 🎯 Goal of the Notebook
-
-  
-
-- 📈 Baseline Results (from tutorial code)
-
-  
-
-- 🔄 Exponential Smoothing (ETS) – Holt-Winters
-
-  
-
-- ⚖️ ARIMA vs ETS for Champagne Sales Forecasting
-
-  
-
-- ✅ Why ETS is More Suitable
-
-  
-
-- 🔍 Grid Search for Configurations
-
-  
-
-- 📊 Final Results and Bias Adjustment
+1. Introduction 
+2. Environement and Dataset 
+3. Runing the code provided for ARIMA solution
+4. Solution Provided
+5. Possible Hybrid Model
+6. Conclusion
 
   
 
